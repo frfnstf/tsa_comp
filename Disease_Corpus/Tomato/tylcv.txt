@@ -1,0 +1,17 @@
+Disease Name: Tomato Yellow Leaf Curl Virus
+Source: https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/#gsc.tab=0
+
+Overview:
+Tomato yellow leaf curl virus (TYLCV) is undoubtedly one of the most damaging pathogens of tomato, and it limits production of tomato in many tropical and subtropical areas of the world. It is also a problem in many countries that have a Mediterranean climate such as California.
+
+Symptoms:
+Infected tomato plants initially show stunted and erect or upright plant growth; plants infected at an early stage of growth will show severe stunting. Leaves of infected plants are small and curl upward; and show strong crumpling and interveinal and marginal yellowing. The internodes of infected plants become shortened and, together with the stunted growth, plants often take on a bushy appearance, which is sometimes referred to as 'bonsai' or broccoli'-like growth. Flowers formed on infected plants commonly do not develop and fall off (abscise). 
+
+Causes:
+The primary way the virus is spread short distances is by Bemisia whitefly species. Over long distance, the virus is primarily spread through the movement of infected plants, especially tomato transplants. The silverleaf whitefly is the primary vector that spreads TYLCV. Whiteflies can become infected in as little as 5 minutes of feeding on an infected plant. 
+
+Treatments/Solutions:
+Instead of using chemical insecticides, you can spray plants with azadirachtin (Neem), pyrethrin, or insecticidal soap. Other solutions are spraying plants with a solution of baking soda, vegetable oil, and mild soap, or spraying plants with whey protein fractions. You can also dp mulching with silver reflective material to reflect sunlight away from silverleaf whiteflies. A voluntary or enforced regional host-free period in areas lacking a true winter season (i.e., temperatures low enough to prevent crop cultivation and whitefly survival) might be a useful management tool. The crops to be included in a region will depend on the agroecosystem.
+
+Prevention:
+For the future, plant immediately after a tomato-free period or winter season and don't wet tomato foliage with irrigation water. Make sure to avoid planting near old fields or gardens with crop residue and pull weeds that host whiteflies. Rogue diseased plants when incidence of virus infection is low and space out your plants evenly.

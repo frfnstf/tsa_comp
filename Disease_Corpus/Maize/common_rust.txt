@@ -1,0 +1,17 @@
+Disease Name: Common Rust
+Source: https://extension.umn.edu/corn-pest-management/common-rust-corn
+
+Overview:
+Common rust frequently occurs in the northern U.S. in mid to later summer. It rarely reaches levels that cause yield loss in commercial hybrids. It is most problematic during prolonged periods of cool, wet weather. Rust diseases are generally easy to identify by the appearance of brown pustules.
+
+Symptoms:
+Common rust produces rust-colored to dark brown, elongated pustules on both leaf surfaces. The pustules contain rust spores (urediniospores) that are cinnamon brown in color. Pustules darken as they age. Leaves, as well as sheaths, can be infected. Under severe conditions leaf chlorosis and death may occur. Common rust can be differentiated from Southern rust by the brown pustules occurring on both top and bottom leaf surfaces with common rust.
+
+Causes:
+The causal pathogen is a rust fungus called Puccinia sorghi. The common rust fungus overwinters in the southern U.S. and Mexico. Urediniospores are blown north to the Midwestern Corn Belt in the summer and infection occurs in June or July. Young leaves are most susceptible to infection and pustules are more likely to form after corn silking. The disease favors cool temperatures (60 - 76 degrees F), heavy dews, about six hours of leaf wetness, and relative humidity greater than 95 percent. Temperatures above 80 degrees F suppress disease development and spread.
+
+Treatments/Solutions:
+Fungicides can also be beneficial, especially if applied early when few pustules have appeared on the leaves (at or around the tasseling or silking growth stage). Apply a foliar fungicide if rust is spreading rapidly or likely to spread and yield may be affected, or if the disease exceeds the threshold established by your state extension plant pathologist. Monitor plants and spray when there are on average six pustules per leaf.
+
+Prevention:
+The best management practice is to use resistant corn hybrids. Most hybrids are rated from "3" to "6" on a scale of 1 to 9 (9=resistant), indicating there are clear differences between hybrids, but complete resistance is not available. Scout corn to detect common rust early. Monitor disease development, crop growth stage, and weather forecast.

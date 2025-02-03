@@ -1,0 +1,17 @@
+Disease Name: Esca
+Source: https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/#gsc.tab=0
+
+Overview:
+Esca, also known as black measles, is a destructive grapevine trunk disease caused by a complex of fungal pathogens, including Phaeoacremonium minimum, Phaeomoniella chlamydospora, and species of Fomitiporia. This disease significantly affects grapevines, leading to reduced vine vigor, poor fruit quality, yield losses, and, in severe cases, vine death. Esca is a widespread problem in vineyards across Europe and other major grape-growing regions, posing a serious threat to sustainable grape production. 
+
+Symptoms:
+Esca typically causes "tiger stripe" patterns on leaves, characterized by interveinal chlorosis and necrosis. Berries on infected vines often shrivel or dry out as they mature, reducing both yield and quality. Internally, affected vines show wood discoloration and decay, with visible white rot when the trunk is cut open. In severe cases, vines exhibit stunted growth, sudden wilting of shoots, and premature leaf drop, signaling a decline in overall plant health.
+
+Causes:
+The disease is caused by fungal pathogens that enter the grapevine through pruning wounds or other injuries. These fungi colonize the vascular system and wood tissue, disrupting the vine's ability to transport water and nutrients. Factors such as poor vineyard sanitation, high humidity, and pruning during wet conditions increase the likelihood of infection and spread of the disease.
+
+Treatments/Solutions:
+Eco-friendly fungicides, such as those derived from essential oils like thyme or clove oil, can suppress fungal growth. Biofungicides containing beneficial fungi, such as Trichoderma species, are another effective treatment option. Proper pruning practices are critical; pruning wounds should be treated with organic wound protectants or sealers to prevent fungal entry. Removing infected wood tissue during pruning helps to limit the spread of the disease. Spraying vines with compost tea, a solution rich in beneficial microbes, can also promote vine health by outcompeting harmful fungi. Pruning tools should be sterilized between vines using rubbing alcohol or a hydrogen peroxide solution to minimize the spread of fungal spores. Pruning should be done during dry conditions, as wet or humid weather encourages fungal spore dispersal.
+
+Prevention:
+Preventing Esca begins with maintaining good vineyard sanitation. Introducing cover crops like clover or mustard can improve soil health and create a disease-suppressive environment. Proper vineyard design, including adequate spacing of vines, improves airflow and reduces humidity around the canopy, further lowering the risk of infection. Regular monitoring of vines for early signs of Esca is essential, and severely affected plants should be removed to prevent further spread of the disease. Sustainable management practices can effectively mitigate the impact of Esca while protecting vineyard ecosystems and ensuring long-term grape production.

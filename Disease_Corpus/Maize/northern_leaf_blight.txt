@@ -1,0 +1,17 @@
+Disease Name: Northern Leaf Blight
+Source: https://www.lfl.bayern.de/ips/blattfruechte/050760/index.php
+
+Overview:
+Northern corn leaf blight, which is a specific type of leaf blight, occurs commonly in most areas of the Midwestern U.S. where corn is grown. Yield losses are typically minimal, but can become significant with susceptible hybrids or inbreds. The disease can cause significant grain loss if susceptible hybrids are infected before silking.
+
+Symptoms:
+Typical symptoms of northern corn leaf blight are canoe-shaped lesions 1 inch to 6 inches long. The lesions are initially bordered by gray-green margins. They eventually turn tan colored and may contain dark areas of fungal sporulation. The length or size of lesions may vary with in different corn hybrids reactions with different resistance genes. Lesions begin on the lower leaves and then spread to upper leaves. Severe symptoms can progress rapidly, resulting in blighted leaves. The disease can be confused with symptoms of Goss's leaf blight on some hybrids, and perhaps with Stewarts wilt where this disease occurs.
+
+Causes:
+The causal pathogen is the fungus Exserohilum turcicum (syn. Helminthosporium turcicum). It overwinters on corn leaf debris. Several races of this pathogen are known that interact differently with different resistance genes. The disease is most prevalent during moderate temperatures (64 to 80 degrees F) with prolonged periods of moisture. It typically appears at or after silking, but the disease is usually more severe when infection occurs earlier.
+
+Treatments/Solutions:
+Fungicides may be warranted on inbreds for seed production during the early stages of this disease. When deciding whether to apply a fungicide, consider: disease pressure, crop growth stage, hybrid disease resistance, environmental conditions, and economic factors. Also, try to reduce the amount of corn residue left in the fields. Lastly, maintain optimal soil moisture.
+
+Prevention:
+Use resistant hybrids. Check with seed dealers to determine hybrid resistance ratings to NCLB. Encourage the compost of plant material. Till the soil to bury and decompose infected corn residue, and clean tillage equipment before moving to a new field. One year of crop rotation away from corn, followed by tillage is recommended to prevent disease development in the subsequent corn crop.

@@ -1,0 +1,17 @@
+Disease Name: Powdery Mildew
+Source: https://intermountainfruit.org/dbm/powdery-mildew
+
+Overview:
+Many different fungi cause powdery mildew, and they are usually specific to a host plant. Apple and cherry powdery mildews are the most common and economically important mildew diseases. Apple powdery mildew is caused by Podosphaera leucotricha, and can also cause problems on peach fruit. Cherry powdery mildew is caused by Podosphaera clandestina, and peaches and nectarines are damaged by the peach powdery mildew, Sphaerotheca pannosa. All of these powdery mildews behave similarly with early control needed to avoid fruit damage in orchards where they occur.
+
+Symptoms:
+Infected leaves and shoots of apple and cherry are covered by a light grey or white powdery coating of spores and mycelium. They become curled, crinkled, and stunted. Leaves may bronze or drop prematurely. Tart cherry fruit with infected stems tend to be more difficult to harvest by shaking because the fruit doesn’t release as readily as non-infected fruit.
+
+Causes:
+Cherry powdery mildew overwinters as cleistothecia (resting spore structures) on orchard floor detritus and in bark cracks and crevices. In mid to late spring, after irrigation starts washing spores into the air, infections become visible on foliage closest to the ground or the trunk. Secondary infections eventually spread throughout the tree to leaves and fruit. Cooler temperatures and leaf senescence in the fall prompts the formation of cleistothecia on the undersides of leaves for overwintering.
+
+Treatments/Solutions:
+Overwintering inoculum of apple powdery mildew can be reduced with attention to orchard sanitation. Judicious removal of flagged terminals during dormant pruning is the first step; scouting for and removing flagged spurs is a second. When planting new orchards, select cultivars that are resistant. Freedom, Liberty, Prima, Goldrush, Jonafree, MacFree and Red Delicious are resistant cultivars. Golden Delicious and JonaGold are moderately susceptible. Jonathan, Rome, Gala, Granny Smith, Fuji, Honeycrisp, and MacIntosh are all very susceptible. Anjou pear is susceptible while Bartlett pear is moderately resistant. Spring and summer sprays of sulfur (when temperatures are below 80°F), certain DMI fungicides, and the combination of a strobilurin and carboximide fungicide can provide effective control of apple, cherry, and peach mildew. Avoid developing resistance to effective control chemistries by rotating modes of action for sprays applied throughout the season.
+
+Prevention:
+Prune trees to allow for air circulation and keep water sprout growth from scaffolds to a minimum. On cherries, examine leaves on suckers and spurs in the lowest portion of the crown for roundish mildew spots beginning in early bloom. Black Tartarian, Bing, Ranier, and Lapins sweet cherry and Montmorency tart cherry are highly susceptible to mildew.

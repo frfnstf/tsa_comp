@@ -1,0 +1,17 @@
+Disease Name: Brown Spot
+Source: https://ipm.ucanr.edu/agriculture/dry-beans/bacterial-brown-spot/#gsc.tab=0
+
+Overview:
+Brown spot is a common fungal disease of rice caused by Bipolaris oryzae. It is a significant problem in rice-growing regions worldwide, especially in areas with poor soil fertility and unfavorable growing conditions. This disease impacts both the quality and quantity of rice yields, contributing to economic losses for farmers. Historically, brown spot was a major cause of famine in rice-dependent communities, such as during the Bengal Famine of 1943.
+
+Symptoms:
+Brown spot primarily affects the leaves, grains, and stems of rice plants. On leaves, small, circular to oval brown lesions with gray or whitish centers are common. As the disease progresses, these lesions can merge, causing extensive leaf damage. Infected grains develop dark brown spots, reducing their quality and market value. Severely infected plants may appear stunted and produce fewer tillers, leading to reduced yields.
+
+Causes:
+Brown spot is caused by the fungal pathogen Bipolaris oryzae, which thrives in conditions of high humidity, warm temperatures, and poor soil fertility. The fungus can persist in crop residues, seeds, and soil, spreading through windborne spores or contaminated water. Factors such as nutrient deficiencies, particularly of nitrogen, phosphorus, and potassium, increase the plant's susceptibility to the disease. Drought stress and improper irrigation practices further exacerbate the problem.
+
+Treatments/Solutions:
+Sustainable approaches are key to managing brown spot effectively. Foliar sprays of natural fungicides, such as neem oil or garlic extract, can reduce fungal activity. Biofungicides containing Trichoderma species or other beneficial microbes are also effective in suppressing the pathogen. Improving soil health is critical; farmers can use organic composting or manure to enhance nutrient availability and boost the plant's natural defenses. Removing infected plant debris after harvest reduces the fungal inoculum in the field. Additionally, soaking seeds in hot water (around 52°C for 10 minutes) before planting can eliminate fungal spores and ensure healthy seedlings.
+
+Prevention:
+To prevent brown spot, farmers should adopt integrated crop management practices. Balanced fertilization is essential, ensuring the soil has adequate nitrogen, phosphorus, and potassium to support healthy plant growth. Proper water management, including timely irrigation, prevents drought stress and helps maintain plant vigor. Resistant rice varieties should be planted whenever possible to minimize the risk of infection. Crop rotation with non-host plants can also reduce the buildup of fungal spores in the soil Regularly monitoring the crop for early signs of infection is important, allowing farmers to take action before the disease spreads widely.

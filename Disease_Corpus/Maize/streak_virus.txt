@@ -1,0 +1,17 @@
+Disease Name: Streak Virus
+Source: https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.32620
+
+Overview:
+Maize Streak Virus (MSV) is a viral pathogen that causes maize streak disease (MSD), the most significant viral disease affecting maize in sub-Saharan Africa. It belongs to the genus Mastrevirus and family Geminiviridae, with different strains infecting various grass species, including maize, wheat, barley, and rye. MSV is a major contributor to food security problems in Africa and can cause severe stunting of plants and failure to produce complete cobs or seeds.
+
+Symptoms:
+Symptoms appear on the leaves 3-7 days after inoculation as pale spots or flecks, 0.5-2 mm in diameter. Symptomatology may vary depending on the host, cultivar or virus isolate. In severe cases, the initial pale spots become longer streaks which eventually coalesce. Maize plants infected before the 4-5 leaf stage can be severely stunted. In milder instances, the lesions do not develop to more than a few sparse flecks or dots.
+
+Causes:
+Maize streak virus disease is caused by a geminivirus and is widespread throughout the region. The virus is transmitted by the insect grasshopper. Leafhoppers feed on infected plants and transmit the virus to susceptible plants and they lay eggs on the host plant. Nymphs feed on vascular tissues of the host plant as well. Isolates that infect grain crops cause an abnormal bunching of flowers and shoots. Some isolates from South Africa induce a reddish pigmentation on those leaves initially infected.
+
+Treatments/Solutions:
+Chemical insecticides can be effective and should be chosen for moderate persistence in order to cover the peak period of immigration when emerging crops are at greatest risk. You can also use tillage to eliminate green material in the field and surrounding area before planting winter wheat. Breeding programs have been ongoing for several years to obtain MSV-resistant cultivars, and achieving genetically engineered resistance is a goal for agricultural scientists. A 10-m barrier of paved ground has been shown to reduce the number of immigrant vectors, and removing the remnants of previous crops is advised.
+
+Prevention:
+Certain cultural control methods can reduce the incidence of MSV in crops. Often, high rainfall during the wet season (autumn) correlates with a large migration of infected vectors as the dry season (spring) approaches. Planting downwind of covered crops should be avoided, and close attention should be given to management and crop rotation practices in areas reliant on irrigation.

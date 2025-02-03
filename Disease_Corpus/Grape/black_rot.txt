@@ -1,0 +1,17 @@
+Disease Name: Black Rot
+Source: https://ipm.ucanr.edu/agriculture/cole-crops/black-rot/#gsc.tab=0
+
+Overview:
+Black rot is a bacterial disease that mainly affects cruciferous crops, including cabbage, broccoli, cauliflower, and kale, but can also affect grape plants. It is caused by Xanthomonas campestris pv. campestris. This disease is one of the most destructive for crucifers worldwide, particularly in warm and humid regions. It causes significant yield losses by affecting plant growth and the quality of harvested produce, posing challenges for both farmers and the agricultural industry.
+
+Symptoms:
+Black rot symptoms typically appear on the leaves as yellow, V-shaped lesions that start at the leaf edges and progress inward. Over time, the veins within these lesions turn black, which is a hallmark of the disease. In severe cases, the bacteria invade the vascular system, causing wilting and stunted growth. Affected plants may develop blackened, decaying stems, reducing their marketability. Infections often result in premature plant death when conditions are favorable for bacterial growth.
+
+Causes:
+The disease is caused by the bacterium Xanthomonas campestris pv. campestris, which enters plants through natural openings such as stomata or wounds caused by insects, mechanical damage, or pruning. It thrives in warm, wet conditions and spreads easily through rain splash, irrigation water, contaminated tools, or infected plant debris. The pathogen can survive on crop residues, seeds, and weeds, making it highly persistent in agricultural systems.
+
+Treatments/Solutions:
+Sustainable treatments are critical to managing black rot effectively. Applying copper-based bactericides or sprays made from garlic or ginger extracts can reduce bacterial populations on infected plants. Using bio-based treatments, such as products containing beneficial bacteria like Bacillus subtilis or Pseudomonas fluorescens, helps suppress Xanthomonas while promoting plant health. Removing and destroying infected plants can help limit the spread of the disease. Additionally, washing tools and equipment with a solution of vinegar or hydrogen peroxide reduces the risk of contamination in the field. Mulching with organic materials can minimize soil splashing during irrigation or rainfall. 
+
+Prevention:
+Preventing black rot begins with planting certified disease-free seeds or treating seeds with hot water (around 50°C for 25–30 minutes) to eliminate bacterial contamination. Crop rotation with non-cruciferous crops breaks the pathogen's life cycle and reduces its persistence in the soil. Adequate plant spacing improves air circulation, reducing leaf wetness and making conditions less favorable for bacterial growth. It is also essential to regularly scout fields for early signs of infection and remove any infected plants to prevent disease spread.
