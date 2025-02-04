@@ -25,6 +25,11 @@ Image_Dataset: consists of images for each crop disease
 
 Test_Images: not used by the program itself, but this holds images that can be user input in the app itself
 
+Tuner_Data: contains presaved data for Keras Tuner to use when building each model
+
+** Note: Again, due to file size limitations, we were unable to upload this directory. If necessary to be examined, the code can be run and new data will be generated.
+  However, when our code is run during our presentation/interview, the program will use the presaved datasets.
+
 classify.py: takes care of the TensorFlow model functionality
 
 disease_info.py: utilizes information from the disease corpus and incorporates NLP techniques
