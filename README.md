@@ -20,7 +20,8 @@ Disease_Corpus: holds .txt files with information about each disease
 
 Image_Dataset: consists of images for each crop disease
 
-** Note: Due to file size limitations on GitHub, we compressed the image datasets for each crop into .zip files.
+** Note: Due to file size limitations on GitHub, we decreased the size of our image datasets for each disease to be only 500 images.
+  When our code is run during our presentation/interview, the program will use the full datasets.
 
 Test_Images: not used by the program itself, but this holds images that can be user input in the app itself
 
