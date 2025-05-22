@@ -37,7 +37,7 @@ Software:
     Ubuntu 2404.1.66.0
     Visual Studio Code
     Python 3.12.3
-    As for libraries/frameworks, we installed tkinter, tensorflow, keras-tuner, nltk, pandas, matplotlib, and pillow for this program.
+    As for libraries/frameworks, we installed tkinter, tensorflow, keras-tuner, nltk, pandas, matplotlib, cryptography, and pillow for this program.
 
 
 GPU Usage:
