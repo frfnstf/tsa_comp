@@ -11,6 +11,8 @@ pip install -r requirements.txt
 
 During the creation of this application, we used a computer that is equipped with a built-in dedicated graphics card (NVIDIA GeForce RTX 4060 Laptop GPU), which allows certain parts of the program to run faster. However, our app will work just as well on a normal computer as well. In order to use this as well, additional libraries related to the specific graphics card must be installed to your device.
 
+It is recommended to run this program through the Ubuntu terminal with WSL.
+
 Lastly, execute the line below in your terminal to download certain nltk corpora used in our program.
 
 ```bash
