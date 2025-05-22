@@ -1,0 +1,10 @@
+farmer1|Implement the practice of thinning your trees in order to limit competition for resources and reduce the risk of fires.|False
+farmer1|Instead of fungicides, use baking soda or vinegar to avoid killing beneficial soil microbes.|True
+farmer1|Instead of white latex paint, look for a paint with an organic base that can be applied to tree bark for protection from insects and sunburn.|False
+farmer1|Utilize cultivars to reduce reliance on chemicals and maximize crop yields.|False
+farmer1|Avoid using an excessive amount of mulch to prevent suffocating the roots and causing oxygen deprivation.|True
+farmer1|Composting diverts organic waste from landfills and improves soil quality.|False
+farmer1|Plant and breed hybrid seeds to maximize crop yields while reducing usage of water and chemical inputs.|False
+farmer1|Irrigation itself isn't inherently sustainable, but drip irrigation and smart water management systems effectively minimize water loss."|False
+farmer1|Use organic fertilizer instead of synthetic fertilizer to prevent releasing greenhouse gas emissions.|True
+farmer1|Prune your trees and bushes to increase soil fertility, balance the root systems, and prevent the spread of diseases.|False
