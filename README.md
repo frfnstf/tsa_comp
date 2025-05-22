@@ -3,7 +3,11 @@
 Our project aims to bridge the gap between technology and agriculture by providing an innovative solution for crop disease detection and management. We created an application that allows users to upload images of their crops, utilizing machine learning techniques to identify specific crop diseases. Once a disease is identified, the application uses a prefabricated corpus and natural language processing (NLP) to extract relevant information about the symptoms and treatment options. This information is then curated to emphasize environment-friendly and sustainable practices. Overall, the project not only facilitates timely interventions for crop diseases, but also educates users about sustainable agricultural practices. The app also contains personalized data charts and other features based on their detected diseases. A key feature of our application is its scalability; although it currently supports a limited range of crop types and diseases, we can easily add more training datasets to expand its capabilities in the future. Lastly, our app includes a graphical user interface (GUI) for both a mobile and a desktop screen.
 
 ## Installation
-Install all necessary libraries stated in the "requirements.txt" file. During the creation of this application, we used a computer that is equipped with a built-in dedicated graphics card (NVIDIA GeForce RTX 4060 Laptop GPU), which allows certain parts of the program to run faster. However, our app will work just as well on a normal computer as well. In order to use this as well, additional libraries related to the specific graphics card must be installed to your device.
+Install all necessary libraries stated in the "requirements.txt" file. 
+```bash
+pip install -r requirements.txt
+```
+During the creation of this application, we used a computer that is equipped with a built-in dedicated graphics card (NVIDIA GeForce RTX 4060 Laptop GPU), which allows certain parts of the program to run faster. However, our app will work just as well on a normal computer as well. In order to use this as well, additional libraries related to the specific graphics card must be installed to your device.
 
 Lastly, execute the line below in your terminal to download certain nltk corpora used in our program.
 
