@@ -71,4 +71,4 @@ requirements.txt: houses the libraries/packages and their respective versions th
 
 ## Sources
 
-All sources used in the creation of our application are included in the "sources.txt" file.
+All sources used in the creation of our application are included in the "sources.txt" file, located under the Text_Files folder.
